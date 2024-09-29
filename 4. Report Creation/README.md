@@ -4,7 +4,7 @@
 
 Each page of the report is designed to provide actionable insights into different aspects of the sales pipeline. All pages can be filtered by quarter, allowing for a more granular analysis of trends and performance over time. 
 
-**Link to the Interactive Power BI Report:** [**Report**](https://app.powerbi.com/view?r=eyJrIjoiMGY4OWIxZjctODI3YS00NjEyLWJkYzItMjM3MWRkNzU0MDUxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
+**Link to the Interactive Power BI Report:** [**Report**](https://app.powerbi.com/view?r=eyJrIjoiMGY4OWIxZjctODI3YS00NjEyLWJkYzItMjM3MWRkNzU0MDUxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=13b7b88b29e8f4f825d2) 
 
 *Disclaimer: The units displayed in this report may vary depending on the regional settings of your browser. This report was designed with the EN-UK region in mind. Please adjust your regional settings if necessary to match the units used in this report.*
 
